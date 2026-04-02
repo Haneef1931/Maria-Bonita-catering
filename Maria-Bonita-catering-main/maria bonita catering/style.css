@@ -1,0 +1,15 @@
+body{ 
+      background-color: yellow;
+}
+.title-container{
+display: flex;
+flex-direction: coloum;
+align-items: center;
+}
+.title-container img{
+height: 500px ;
+width: 500px ;
+border: 10px solid green ;
+border-radius: 20px;
+}
+
