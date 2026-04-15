@@ -12,4 +12,35 @@ width: 500px ;
 border: 10px solid green ;
 border-radius: 20px;
 }
+.taco {
+display: flex;
+gap: 50px;
+border-bottom:2px solid grey;
+padding-bottom: 50px
+}
+.taco{
+height: 500px;
+width: 500px;
+border: 10px soild green;
+border-radius: 20px;
+}
+.chips{
+display: flex;
+gap: 50px;
+border-bottom: 2px solid gray;
+padding-bottom: 50px
+}
+.burrito{
+display: flex;
+gap: 50px;
+border-bottom:2px soid grey 
+padding-bottom 50px;
+}
+.burrito{
+height: 500px;
+width: 500px;
+border: 10px solid green;
+border-radius: 20px;
+}
+
 
